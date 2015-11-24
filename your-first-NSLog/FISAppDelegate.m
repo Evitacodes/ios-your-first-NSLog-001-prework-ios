@@ -11,8 +11,7 @@
      * Hey! Write your code here! :D
      
      */
-    
-    // do not alter
+    NSLog(@"Hello, World!");    // do not alter
     return YES;  //
 }   ///////////////
 
